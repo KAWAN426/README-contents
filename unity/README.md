@@ -1,2 +1,2 @@
 ### C#
-### not ready yet
+### It's not ready yet
