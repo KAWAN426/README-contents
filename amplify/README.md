@@ -9,19 +9,7 @@
 ### `import { API } from 'aws-amplify';`
 
 ## 데이터 추가 쿼리
-`API.graphql({
-  query: create~,
-  variables: {
-    input: {
-      ~
-    }
-  }
-})`
+### `API.graphql({ query: create~, variables: { input: { ~ } } })`
 
 ## 데이터 리스트 필터링 쿼리
-`API.graphql({
-  query: list~,
-  variables: {
-    filter: { author: { eq: ~ } }
-  }
-})`
+### `API.graphql({ query: list~, variables: { filter: { author: { eq: ~ } } } })`
