@@ -9,6 +9,7 @@
 ### `git pull origin master` 변경된 사항을 가져오기 (안가져오면 에러남)
 ### `git pull origin master --allow-unrelated-histories` pull로 안가져와질경우 이 코드를 쓰면 되지만 비추
 ### `git status` 현재 상태 출력
+### `git log` 현재까지 커밋을 보여줌
 ### `git branch` 현재 branch 출력
 ### `git branch {BranchName}` 새 branch 추가
 ### `git checkout {BranchName}` branch 변경
