@@ -12,6 +12,8 @@
 ### `git log` 현재까지 커밋을 보여줌
 ### `git branch` 현재 branch 출력
 ### `git branch {BranchName}` 새 branch 추가
+### `git branch -d {BranchName}` branch를 로컬에서 제거
+### `git push origin --delete {BranchName}` branch를 리모트에서 제거
 ### `git checkout {BranchName}` branch 변경
 ### `git merge {BranchName}` 현재 branch로 해당 branch를 연결, 같은 줄의 코드가 다르면 충돌이 생김
 ### `git config --global user.name "{UserName}"` 사용자의 이름 설정
