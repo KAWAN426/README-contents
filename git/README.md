@@ -17,4 +17,4 @@
 ### `git checkout {BranchName}` branch 변경
 ### `git merge {BranchName}` 현재 branch로 해당 branch를 연결, 같은 줄의 코드가 다르면 충돌이 생김
 ### `git config --global user.name "{UserName}"` 사용자의 이름 설정
-### `git config --global user.email {UserEmail}` 사용자의 이메일 설정
+### `git config --global user.email "{UserEmail}"` 사용자의 이메일 설정
