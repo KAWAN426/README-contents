@@ -3,7 +3,6 @@
 
 ## 스키마 업데이트
 ### `amplify push`
-### `amplify codegen models`
 
 ## API 임포트
 ### `import { API } from 'aws-amplify';`
