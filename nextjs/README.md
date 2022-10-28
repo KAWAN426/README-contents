@@ -11,10 +11,10 @@
 ### `npm install -g yarn` : install yarn last version
 ### `Delete package.json and yarn.lock in ./User/{name}` : set up yarn berry before
 ### `yarn set version berry` : set yarn berry
-### `yarn install` : install package
+### `yarn install && yarn add react-is` : install package
 ### `yarn add @yarnpkg/sdks -D` : setting typescript
 ### `yarn dlx @yarnpkg/sdks vscode` : setting typescript on vscode
-### `yarn run simul` : open browser and run hot reload server on 3003 port
+### `yarn run simul` : open browser and run hot reload server on 8080 port
 ### `yarn run dev` : just run live server on 8080 port
 ### `yarn run build` : build project
 ### `yarn run export` : build project in out folder
