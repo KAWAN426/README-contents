@@ -8,13 +8,8 @@
 <br>
 
 ## yarn-berry
-### All `npm install -g yarn && yarn set version berry && yarn install && yarn add react-is && yarn add @yarnpkg/sdks -D && yarn dlx @yarnpkg/sdks vscode`
-### `npm install -g yarn` : install yarn last version
+### All Setting `npm install -g yarn && yarn set version berry && yarn install && yarn add react-is && yarn add @yarnpkg/sdks -D && yarn dlx @yarnpkg/sdks vscode`
 ### `Delete package.json and yarn.lock in ./User/{name}` : set up yarn berry before
-### `yarn set version berry` : set yarn berry
-### `yarn install && yarn add react-is` : install package
-### `yarn add @yarnpkg/sdks -D` : setting typescript
-### `yarn dlx @yarnpkg/sdks vscode` : setting typescript on vscode
 ### `yarn run simul` : open browser and run hot reload server on 8080 port
 ### `yarn run dev` : just run live server on 8080 port
 ### `yarn run build` : build project
