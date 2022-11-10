@@ -5,9 +5,6 @@
 <br>
 
 ## yarn-berry
-### One Line Setting `npm install -g yarn && yarn set version berry && yarn install && yarn add react-is`
-### `npm install -g yarn` to install yarn last version
-### `Delete package.json and yarn.lock in ./User/{name}` to set up yarn berry before
-### `yarn set version berry` to set yarn berry
-### `yarn install && yarn add react-is` install package
+### All Setting `npm install -g yarn && yarn set version berry && yarn install && yarn add react-is`
+### `Delete package.json and yarn.lock in ./User/{name}` : set up yarn berry before
 ### `yarn start` to start live server
