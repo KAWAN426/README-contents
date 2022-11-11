@@ -1,10 +1,9 @@
-## npm
-### `npm install` to install package
-### `npm start` to start live server
+## 패키지 관리 시스템
+### `npm i` : npm
+### `npm run setYarnBerry` : yarn-berry
 
 <br>
 
-## yarn-berry
-### All Setting `npm install -g yarn && yarn set version berry && yarn install && yarn add react-is`
-### `Delete package.json and yarn.lock in ./User/{name}` : set up yarn berry before
-### `yarn start` to start live server
+## scripts
+### `start` : 라이브 서버를 실행 (hot reloat O)
+### `build` : 프로젝트를 빌드
