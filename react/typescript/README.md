@@ -1,10 +1,9 @@
-## npm
-### `npm install` : install package
-### `npm start` : start hot reload server 3003 port
+## 패키지 관리 시스템
+### `npm i` : npm
+### `npm run setYarnBerry` : yarn-berry
 
 <br>
 
-## yarn-berry
-### All Setting `npm install -g yarn && yarn set version berry && yarn install && yarn add react-is && yarn add @yarnpkg/sdks -D && yarn dlx @yarnpkg/sdks vscode`
-### `Delete package.json and yarn.lock in ./User/{name}` : set up yarn berry before
-### `yarn start` : start hot reload server 8080 port
+## scripts
+### `start` : 라이브 서버를 실행 (hot reloat O)
+### `build` : 프로젝트를 빌드
