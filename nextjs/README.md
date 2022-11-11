@@ -1,10 +1,6 @@
-## npm
-### `npm i` : install package
-
-<br>
-
-## yarn-berry
-### `npm run setYarnBerry` : Set yarn berry and install package
+## 패키지 관리 시스템
+### `npm i` : npm
+### `npm run setYarnBerry` : yarn-berry
 
 <br>
 
