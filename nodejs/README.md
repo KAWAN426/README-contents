@@ -1,12 +1,9 @@
-## npm
-### `npm install` : install package
-### `npm start` : start hot reload server on 8080 port
+## 패키지 관리 시스템
+### `npm i` : npm
+### `npm run setYarnBerry` : yarn-berry
 
 <br>
 
-## yarn berry
-### `npm install -g yarn` : install yarn last version
-### `Delete package.json and yarn.lock in ./User/{name}` : set up yarn berry before
-### `yarn set version berry` : set yarn berry
-### `yarn install` : install package
-### `yarn start` : start hot reload server on 8080 port
+## scripts
+### `start` : node로 서버를 실행
+### `dev` : nodemon으로 서버를 실행 (핫리로드)
