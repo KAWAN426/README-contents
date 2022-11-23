@@ -1,6 +1,6 @@
 ## 패키지 관리 시스템
 ### `npm i` : npm
-### `npm run setYarnBerry` : yarn-berry
+### `npm run yarn2` : yarn-berry
 
 <br>
 
