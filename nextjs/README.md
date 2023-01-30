@@ -1,6 +1,6 @@
 ## 패키지 관리 시스템
 ### `npm i` : npm
-### `npm run yarn2` : yarn-berry
+### `npm run yarn2` : yarn-berry (주위! 상위 폴더에 yarn.lock 또는 package.json이 존재하면 에러가 발생함)
 
 <br>
 
